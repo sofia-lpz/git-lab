@@ -8,6 +8,15 @@ Github practice laboratory, basics.
 ### images
 ![foto de un concierto en la exfabrica de harina](./concierto.jpq)
 
+### code examples
+
+```python 
+num1 = print(input("Enter first number: "))
+num2 = print(input("Enter second number: "))
+sum = num1 + num2
+print("The sum is:", sum)
+```
+
 ## Reference
 
 [Github documentation](https://docs.github.com/en)
