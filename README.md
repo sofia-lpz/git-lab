@@ -8,6 +8,7 @@ Github practice laboratory, basics.
 ### images
 ![concierto en la exfabrica de harina](https://github.com/sofia-lpz/git-lab/assets/131844868/5d27c4a7-686e-4ca1-97a0-f400cf3cc0b4)
 
+extra image change for learning to unstage
 ### code examples
 
 ```python 
